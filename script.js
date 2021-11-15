@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Pentester", "Bug Bounty Hunter", "OSCP"],
+        strings: ["Pentester", "Bug Bounty Hunter", "Offensive Security Certifed Professional"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Pentester", "Bug Bounty Hunter", "OSCP"],
+        strings: ["Pentester", "Bug Bounty Hunter", "Offensive Security Certifed Professional"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
