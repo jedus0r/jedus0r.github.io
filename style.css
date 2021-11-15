@@ -269,7 +269,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "what i like";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -384,7 +384,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "what i like share";
 }
 .teams .carousel .card{
     background: #222;
