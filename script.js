@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Pentester", "Security Researcher"],
+        strings: ["Web Application Testing", "API Testing", "External Pentest"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Pentester", "Bug Bounty Hunter", "Offensive Security Certified Professional"],
+        strings: ["Pentester", "Security Researcher", "Offensive Security Certified Professional"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
