@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Pentester", "Security Researcher", "Offensive Security Certified Professional"],
+        strings: ["Pentester", "Security Researcher"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
