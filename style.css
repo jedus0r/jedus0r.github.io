@@ -384,7 +384,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "what i like share";
+    content: "";
 }
 .teams .carousel .card{
     background: #222;
